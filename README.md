@@ -5,7 +5,7 @@
 |  TI.20.A.1           |  PEMROGRAMAN WEB   |
 |  PERTEMUAN  11       | PRAKTIKUM 9        |
 
-Dipertemuan kali ini kita akan mempelajari **php modular** 
+Dipertemuan ini akan mempelajari **php modular** 
 
 ## LANGKAH - LANGKAH PRAKTIKUM
 
@@ -21,7 +21,7 @@ Menjalankan xampp server localhost.
 
 **PENJELASAN**
 
-Kemudian jalanlan pada localhost server dengan mengakses URL: http://localhost/Lab9Web/lab9_php_modular/
+Kemudian jalankan pada localhost server dengan mengakses URL: http://localhost/Lab9Web/lab9_php_modular/
 ![local-server](img/index.png)
 
 ## 3). BUAT FILE BARU DENGAN NAMA **header.php**
